@@ -1,10 +1,8 @@
 # S3ush
 
-TODO: Write a gem description
+Auto traverse your s3 buckets and optimize(shrink) your images.
 
 ## Installation
-
-Add this line to your application's Gemfile:
 
 ```ruby
 gem 's3ush'
@@ -20,7 +18,6 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
 
 ## Contributing
 
