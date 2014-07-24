@@ -23,4 +23,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec'
 
   spec.add_dependency "aws-s3"
+  spec.add_dependency "httpclient"
+  spec.add_dependency "json"
+
 end
